@@ -1,0 +1,445 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+body
+{
+    border: medium outset #FFFFFF;
+    background-image: url('../Images/wallpapersilver.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    font-size: .90em;
+    margin: 0px;
+    padding: 0px;
+    color: #003300;
+    width:100%;
+    height:100%;
+}
+a:link, a:visited
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #034af3;
+}
+
+p
+{
+    margin-bottom: 10px;
+    line-height: 1.6em;
+}
+
+
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 1.5em;
+    color: #666666;
+    font-variant: small-caps;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+h1
+{
+    font-size: 1.6em;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h2
+{
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align:center;
+    
+    margin-left: 201px;
+}
+
+h3
+{
+    font-size: 1.2em;
+}
+
+h4
+{
+    font-size: 1.1em;
+}
+
+h5, h6
+{
+    font-size: 1em;
+}
+
+/* this rule styles <h1> and <h2> tags that are the 
+first child of the left and right table columns */
+.rightColumn > h1, .rightColumn > h2, .leftColumn > h1, .leftColumn > h2
+{
+    margin-top: 0px;
+}
+
+
+.table_EdicaoAcomp
+{
+  padding:30px;
+  padding-left:16px;
+  margin:10px;  
+  table-layout:auto;
+  border-collapse:collapse;
+  border-collapse:separate;
+   border: 1px solid green;  
+    
+    
+  }
+/* Line Divisor*/
+.lineDividor
+{
+    border-style: solid none none none;
+    border-color: #008000;
+    padding: 5px;
+    margin: 3px;
+    color: #000000;
+    border-top-width: thin;
+   }
+
+/*Border to page*/
+.borders
+{
+    border-width: thin;
+    border-color: #CCCCCC;
+    border-style: solid;
+    width: auto;
+}
+
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+   
+.page
+{
+    width: 100%;
+    background-color:#fff;
+    margin: auto auto 0px auto;
+    border: medium inset #FFFFFF;
+    height:100%;
+    
+ 
+}
+.fields_Grids_Validador
+{
+ display:none;    
+}
+.images
+{
+ height:500px;
+ width   
+}
+.simbolo_Enfermagem
+{
+    background-image: url('../Images/simbolo_enfermagem1.jpg');
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 110px;
+     width: 191px;
+}
+
+.header
+{
+    background-position: center center;
+    position: static;
+    margin: 0px;
+    padding: 20px;
+    background-image: url('../Images/logo_files/400dpiLogo_red.jpg');
+    background-repeat: no-repeat;
+     background-color: white;
+    top: 0px;
+    left: 0px;
+    height: 20%;
+    border-bottom-color: transparent;
+    border-style: outset;
+    width: auto;
+}
+
+
+.header h1
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    font-weight: 700;
+    margin: 0px 0px 0px 505px;
+    padding: 0px 0px 0px 20px;
+    color: Green;
+    line-height: 2em;
+    font-size: 2em;
+    height: 39px;
+    font-family: Verdana;
+    font-style: inherit;
+    text-transform: uppercase;
+   
+}
+
+
+.main
+{
+    border: medium inset #FFFFFF;
+    padding: 0px 12px;
+    margin: 30px 8px 8px 8px;
+    min-height: 420px;
+    background-color: #000000;
+}
+
+.leftCol
+{
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    min-height: 200px;
+}
+
+.footer
+{
+    color: #4e5766;
+    padding: 8px 0px 0px 0px;
+    margin: 0px auto;
+    text-align: center;
+    line-height: normal;
+}
+
+.Panel_General
+{
+  vertical-align:    
+}
+/* Footer MENU
+--------------------------------------------------------*/
+.nav li .nav a {
+  list-style: none;
+  margin: 10;
+  padding: 10;
+  border: 10;
+  font-size: 20px;
+  font-family: Helvetica;
+  line-height: 1;
+}
+.nav {
+  margin-left:280px;
+}
+.nav ul
+{
+    zoom: 1;
+    background: #a7bc7a url('../Images/pattern.png') repeat left top;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: 1px solid #839b4e;
+    -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+}
+.nav ul:before {
+  content: '';
+  display: block;
+}
+.nav ul:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+.nav a,
+.nav a:link,
+.nav a:visited {
+  padding: 15px 20px;
+  display: block;
+  text-decoration: none;
+  color: #ffffff;
+  text-shadow: 0 -1px 1px #586835;
+  border-right: 1px solid #839b4e;
+}
+.nav a:hover {
+  color: #586835;
+  text-shadow: 0 1px 1px #bdcd9c;
+}
+.nav li {
+  float: left;
+  border-right: 1px solid #b2c58b;
+}
+.nav li:hover {
+  background: #9cb369 url(pattern.png) top left repeat;
+}
+.nav li:first-child {
+  border-left: none;
+  -webkit-border-radius: 4px 0 0 4px;
+  -moz-border-radius: 4px 0 0 4px;
+  border-radius: 4px 0 0 4px;
+}.nav l
+.nav li a:hover
+{
+    color: #069;
+   
+}
+
+/* TAB MENU   
+-olor: #069;
+}
+
+/* TAB MENU   
+----------------------------------------------------------*/
+
+div.hideSkiplink
+{
+    background-color:#3a4f63;
+    width:100%;
+}
+
+div.menu
+{
+    padding: 4px 0px 4px 8px;
+    
+}
+
+div.menu ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+}
+
+div.menu ul li a, div.menu ul li a:visited
+{
+    background-color: #465c71;
+    border: 1px #4e667d solid;
+    color: #dde4ec;
+    display: block;
+    line-height: 1.35em;
+    padding: 4px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+div.menu ul li a:hover
+{
+    background-color: #bfcbd6;
+    color: #465c71;
+    text-decoration: none;
+}
+
+div.menu ul li a:active
+{
+    background-color: #465c71;
+    color: #cfdbe6;
+    text-decoration: none;
+}
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset
+{
+    margin: 1em 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+}
+
+fieldset p 
+{
+    margin: 2px 12px 10px 10px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+
+fieldset label.inline 
+{
+    display: inline;
+}
+
+legend 
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+}
+
+input.textEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+input.passwordEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+div.accountInfo
+{
+    width: 42%;
+}
+
+/* MISC  
+----------------------------------------------------------*/
+
+.clear
+{
+    clear: both;
+}
+
+.title
+{
+    display: block;
+    float: left;
+    text-align: left;
+    width: auto;
+    margin-right: 279px;
+}
+
+.loginDisplay
+{
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    padding: 10px;
+    color: black;
+}
+
+.loginDisplay a:link
+{
+    color: black;
+}
+
+.loginDisplay a:visited
+{
+    color: Gray;
+}
+
+.loginDisplay a:hover
+{
+    color: green;
+}
+
+.failureNotification
+{
+    font-size: 1.2em;
+    color: Red;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.submitButton
+{
+    text-align: right;
+    padding-right: 10px;
+}
