@@ -1,0 +1,22 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+
+<!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+
+<configuration>
+
+  <connectionStrings>
+    <add name="ConnectionString" connectionString="Server=SAMPLE;Database=db2;UID=db2admin;PWD=Bigboa!131291;"
+      providerName="System.Data.OleDb" />
+    <add name="ConnectionString2" connectionString="Provider=IBMDADB2.DB2COPY1;Data Source=DB2;Persist Security Info=True;OLE DB Services=-1;Password=Bigboa!131291;User ID=db2admin"
+      providerName="System.Data.OleDb" />
+  </connectionStrings>
+
+   
+    <system.web>
+    <compilation debug="true" targetFramework="4.0" />
+  </system.web>
+
+</configuration>
