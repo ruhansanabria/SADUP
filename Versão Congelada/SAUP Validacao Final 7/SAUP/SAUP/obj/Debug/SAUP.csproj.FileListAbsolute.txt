@@ -1,0 +1,60 @@
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.02\SAUP\SAUP\bin\SAUP.dll
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.02\SAUP\SAUP\bin\SAUP.pdb
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.02\SAUP\SAUP\bin\IBM.Data.DB2.dll
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.02\SAUP\SAUP\obj\Debug\SAUP.csprojResolveAssemblyReference.cache
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.02\SAUP\SAUP\obj\Debug\SAUP.dll
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.02\SAUP\SAUP\obj\Debug\SAUP.pdb
+C:\Users\preto_000\Documents\Visual Studio 2010\Backup Versions\WEB_SAUP V2.0.03\SAUP\SAUP\obj\Debug\SAUP.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Backup Versions\WEB_SAUP V2.0.03\SAUP\SAUP\obj\Debug\SAUP.pdb
+C:\Users\preto_000\Documents\Visual Studio 2010\Backup Versions\WEB_SAUP V2.0.03\SAUP\SAUP\bin\SAUP.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Backup Versions\WEB_SAUP V2.0.03\SAUP\SAUP\bin\SAUP.pdb
+C:\Users\preto_000\Documents\Visual Studio 2010\Backup Versions\WEB_SAUP V2.0.03\SAUP\SAUP\bin\IBM.Data.DB2.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Backup Versions\WEB_SAUP V2.0.03\SAUP\SAUP\obj\Debug\SAUP.csprojResolveAssemblyReference.cache
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.04\WEB_SAUP V2.0.03\SAUP\SAUP\bin\SAUP.dll
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.04\WEB_SAUP V2.0.03\SAUP\SAUP\bin\SAUP.pdb
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.04\WEB_SAUP V2.0.03\SAUP\SAUP\bin\IBM.Data.DB2.dll
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.04\WEB_SAUP V2.0.03\SAUP\SAUP\obj\Debug\SAUP.dll
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.04\WEB_SAUP V2.0.03\SAUP\SAUP\obj\Debug\SAUP.pdb
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.05\WEB_SAUP V2.0.05\SAUP\SAUP\obj\Debug\SAUP.dll
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.05\WEB_SAUP V2.0.05\SAUP\SAUP\obj\Debug\SAUP.pdb
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.05\WEB_SAUP V2.0.05\SAUP\SAUP\bin\SAUP.dll
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.05\WEB_SAUP V2.0.05\SAUP\SAUP\bin\SAUP.pdb
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.05\WEB_SAUP V2.0.05\SAUP\SAUP\bin\IBM.Data.DB2.dll
+Z:\PUC 2014\SAUP\WEB_SAUP V2.0.05\WEB_SAUP V2.0.05\SAUP\SAUP\obj\Debug\SAUP.csprojResolveAssemblyReference.cache
+C:\Users\preto_000\Documents\Visual Studio 2010\Backup Versions\WEB_SAUP V2.0.06\WEB_SAUP V2.0.05\SAUP\SAUP\bin\SAUP.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Backup Versions\WEB_SAUP V2.0.06\WEB_SAUP V2.0.05\SAUP\SAUP\bin\SAUP.pdb
+C:\Users\preto_000\Documents\Visual Studio 2010\Backup Versions\WEB_SAUP V2.0.06\WEB_SAUP V2.0.05\SAUP\SAUP\bin\IBM.Data.DB2.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Backup Versions\WEB_SAUP V2.0.06\WEB_SAUP V2.0.05\SAUP\SAUP\obj\Debug\SAUP.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Backup Versions\WEB_SAUP V2.0.06\WEB_SAUP V2.0.05\SAUP\SAUP\obj\Debug\SAUP.pdb
+E:\PUC_2014\SAUP\WEB_SAUP V2.0.10.1\SAUP\SAUP\bin\SAUP.dll
+E:\PUC_2014\SAUP\WEB_SAUP V2.0.10.1\SAUP\SAUP\bin\SAUP.pdb
+E:\PUC_2014\SAUP\WEB_SAUP V2.0.10.1\SAUP\SAUP\bin\IBM.Data.DB2.dll
+E:\PUC_2014\SAUP\WEB_SAUP V2.0.10.1\SAUP\SAUP\obj\Debug\SAUP.dll
+E:\PUC_2014\SAUP\WEB_SAUP V2.0.10.1\SAUP\SAUP\obj\Debug\SAUP.pdb
+E:\PUC_2014\SAUP\SAUP Completo\SAUP\SAUP\bin\SAUP.dll
+E:\PUC_2014\SAUP\SAUP Completo\SAUP\SAUP\bin\SAUP.pdb
+E:\PUC_2014\SAUP\SAUP Completo\SAUP\SAUP\bin\IBM.Data.DB2.dll
+E:\PUC_2014\SAUP\SAUP Completo\SAUP\SAUP\obj\Debug\SAUP.dll
+E:\PUC_2014\SAUP\SAUP Completo\SAUP\SAUP\obj\Debug\SAUP.pdb
+E:\PUC_2014\SAUP Versao Final 01\SAUP\SAUP\bin\SAUP.dll
+E:\PUC_2014\SAUP Versao Final 01\SAUP\SAUP\bin\SAUP.pdb
+E:\PUC_2014\SAUP Versao Final 01\SAUP\SAUP\bin\IBM.Data.DB2.dll
+E:\PUC_2014\SAUP Versao Final 01\SAUP\SAUP\obj\Debug\SAUP.dll
+E:\PUC_2014\SAUP Versao Final 01\SAUP\SAUP\obj\Debug\SAUP.pdb
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\SAUP Versao Final 02\SAUP Versao Final 01\SAUP\SAUP\bin\SAUP.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\SAUP Versao Final 02\SAUP Versao Final 01\SAUP\SAUP\bin\SAUP.pdb
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\SAUP Versao Final 02\SAUP Versao Final 01\SAUP\SAUP\bin\IBM.Data.DB2.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\SAUP Versao Final 02\SAUP Versao Final 01\SAUP\SAUP\obj\Debug\SAUP.csprojResolveAssemblyReference.cache
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\SAUP Versao Final 02\SAUP Versao Final 01\SAUP\SAUP\obj\Debug\SAUP.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\SAUP Versao Final 02\SAUP Versao Final 01\SAUP\SAUP\obj\Debug\SAUP.pdb
+C:\Users\preto_000\documents\visual studio 2010\Projects\SAUP\SAUP\bin\SAUP.dll
+C:\Users\preto_000\documents\visual studio 2010\Projects\SAUP\SAUP\bin\SAUP.pdb
+C:\Users\preto_000\documents\visual studio 2010\Projects\SAUP\SAUP\bin\IBM.Data.DB2.dll
+C:\Users\preto_000\documents\visual studio 2010\Projects\SAUP\SAUP\obj\Debug\SAUP.dll
+C:\Users\preto_000\documents\visual studio 2010\Projects\SAUP\SAUP\obj\Debug\SAUP.pdb
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\Versão Santa Casa\SAUP Validacao Final 7\SAUP\SAUP\bin\SAUP.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\Versão Santa Casa\SAUP Validacao Final 7\SAUP\SAUP\bin\SAUP.pdb
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\Versão Santa Casa\SAUP Validacao Final 7\SAUP\SAUP\bin\IBM.Data.DB2.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\Versão Santa Casa\SAUP Validacao Final 7\SAUP\SAUP\obj\Debug\SAUP.csprojResolveAssemblyReference.cache
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\Versão Santa Casa\SAUP Validacao Final 7\SAUP\SAUP\obj\Debug\SAUP.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\Versão Santa Casa\SAUP Validacao Final 7\SAUP\SAUP\obj\Debug\SAUP.pdb

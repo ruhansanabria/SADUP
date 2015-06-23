@@ -1,0 +1,11 @@
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\Versão Santa Casa\SAUP Validacao Final 7\SAUP\SAUP\bin\SAUP.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\Versão Santa Casa\SAUP Validacao Final 7\SAUP\SAUP\bin\SAUP.pdb
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\Versão Santa Casa\SAUP Validacao Final 7\SAUP\SAUP\bin\IBM.Data.DB2.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\Versão Santa Casa\SAUP Validacao Final 7\SAUP\SAUP\obj\Debug\SAUP.dll
+C:\Users\preto_000\Documents\Visual Studio 2010\Projects\Versão Santa Casa\SAUP Validacao Final 7\SAUP\SAUP\obj\Debug\SAUP.pdb
+C:\Users\RuhanPablo\Documents\Visual Studio 2010\Projects\Versão Congelada\SAUP Validacao Final 7\SAUP\SAUP\bin\SAUP.dll
+C:\Users\RuhanPablo\Documents\Visual Studio 2010\Projects\Versão Congelada\SAUP Validacao Final 7\SAUP\SAUP\bin\SAUP.pdb
+C:\Users\RuhanPablo\Documents\Visual Studio 2010\Projects\Versão Congelada\SAUP Validacao Final 7\SAUP\SAUP\obj\Debug\SADUP.csprojResolveAssemblyReference.cache
+C:\Users\RuhanPablo\Documents\Visual Studio 2010\Projects\Versão Congelada\SAUP Validacao Final 7\SAUP\SAUP\obj\Debug\SAUP.dll
+C:\Users\RuhanPablo\Documents\Visual Studio 2010\Projects\Versão Congelada\SAUP Validacao Final 7\SAUP\SAUP\obj\Debug\SAUP.pdb
+C:\Users\RuhanPablo\Documents\Visual Studio 2010\Projects\Versão Congelada\SAUP Validacao Final 7\SAUP\SAUP\bin\IBM.Data.DB2.dll

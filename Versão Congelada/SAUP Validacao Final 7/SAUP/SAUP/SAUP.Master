@@ -1,0 +1,47 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SAUP.master.cs" Inherits="SAUP.SAUP"  %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" lang="pt-br" />
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt-br">
+<head runat="server">
+    <title>SAUP</title>
+   
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+<form runat="server" >
+  <div class="page" >
+     
+        <div class="header">
+        
+            <div class="loginDisplay">
+               
+               <asp:Label ID="user_logged"  Text="" runat="server"></asp:Label>  | <asp:HyperLink NavigateUrl="~/Account/Logout.aspx" ID="HyperLinkLogout" runat="server" Text="Sair"></asp:HyperLink> 
+              
+                <div class="simbolo_Enfermagem"></div>
+                </div>
+
+       </div>
+        
+       <h2>Sistema de Apoio à Prevenção e  Tratamento de Úlceras por Pressão</h2>
+    <hr class="lineDividor"/>
+    
+        <asp:ContentPlaceHolder ID="Conteudo_Master"  runat="server" >
+        
+        </asp:ContentPlaceHolder>
+      
+     <center><p> 2014 - Todos os direitos Reservados</p></center> 
+     
+    </div>
+     </form>
+    
+</body>
+</html>

@@ -1,0 +1,44 @@
+--##--Dados Padrões
+INSERT INTO DB2ADMIN.PERFILENFERMEIRO (DESCRICAO)
+VALUES ('Assistencial');
+INSERT INTO DB2ADMIN.PERFILENFERMEIRO (DESCRICAO)
+VALUES ('Administrativo');
+---##-- Senha : admin
+INSERT INTO DB2ADMIN.ENFERMEIRO (NOME_ENFERMEIRO, STATUS_ENFERMEIRO, PERFIL_ENFERMEIRO_ID, USER_NAME, SENHA)
+VALUES ('Administrador', 'Ativo', 2, 'admin', '21232f297a57a5a743894a0e4a801fc3');
+INSERT INTO DB2ADMIN.PROCEDIMENTO (DESCRICAO)
+VALUES ('ESTÁGIO I - Higiene com sabão neutro Hidratante sem álcool e sem perfume Coberturas Filme de poliuretano Hidrocolóide fino Película.');
+INSERT INTO DB2ADMIN.PROCEDIMENTO (DESCRICAO)
+VALUES ('ESTÁGIO II - Hidratante sem álcool e sem perfume na pele ao redor Irrigação com água destilada (SF 0,9%) Coberturas Hidrocolóide com filme Hidrocolóide com espuma.');
+INSERT INTO DB2ADMIN.PROCEDIMENTO (DESCRICAO)
+VALUES ('ESTÁGIO III - Hidratante sem álcool e sem perfume na pele ao redor Irrigação com água destilada (SF 0,9%) Coberturas Hidrocolóide com filme ou espuma Alginato Hidrogel Hidrofibras com ou sem prata.');
+INSERT INTO DB2ADMIN.PROCEDIMENTO (DESCRICAO)
+VALUES ('ESTÁGIO IV - Hidratante sem álcool e sem perfume na pele ao redor Irrigação com água destilada (SF 0,9%) Coberturas Hidrocolóide com filme ou espuma Hidrogel Hidrofibras com ou sem prata Carvão com alginato.');
+INSERT INTO DB2ADMIN.PRODUTO (DESCRICAO, UNIDADE)
+VALUES ('Sabão','Unidade');
+INSERT INTO DB2ADMIN.PRODUTO (DESCRICAO, UNIDADE)
+VALUES ('Hidratante sem álcool','Unidade');
+INSERT INTO DB2ADMIN.PRODUTO (DESCRICAO, UNIDADE)
+VALUES ('Filme de poliuretano','Unidade');
+INSERT INTO DB2ADMIN.PRODUTO (DESCRICAO, UNIDADE)
+VALUES ('Hidrocolóide','Unidade');
+INSERT INTO DB2ADMIN.PRODUTO (DESCRICAO, UNIDADE)
+VALUES ('Alginato Hidrogel','Unidade');
+INSERT INTO DB2ADMIN.PRODUTO (DESCRICAO, UNIDADE)
+VALUES ('Água destilada (SF 0,9%)','Unidade');
+INSERT INTO DB2ADMIN.STATUS_ACOMPANHAMENTO (DESCRICAO)
+VALUES ('Finalizado');
+INSERT INTO DB2ADMIN.STATUS_ACOMPANHAMENTO (DESCRICAO)
+VALUES ('Andamento');
+INSERT INTO DB2ADMIN.TIPOTRATAMENTO (CLASSIFICACAO)
+VALUES ('Preventivo');
+INSERT INTO DB2ADMIN.TIPOTRATAMENTO (CLASSIFICACAO)
+VALUES ('Corretivo');
+INSERT INTO DB2ADMIN.TRATAMENTO (ID_TIPO_TRATAMENTO, DESCRICAOTRATAMENTO, PERIODICIDADE)
+VALUES ('2', 'Tratamento Estágio I', '12Horas');
+INSERT INTO DB2ADMIN.TRATAMENTO (ID_TIPO_TRATAMENTO, DESCRICAOTRATAMENTO, PERIODICIDADE)
+VALUES ('2', 'Tratamento Estágio II', '12Horas');
+INSERT INTO DB2ADMIN.TRATAMENTO (ID_TIPO_TRATAMENTO, DESCRICAOTRATAMENTO, PERIODICIDADE)
+VALUES ('2', 'Tratamento Estágio III', '12Horas');
+INSERT INTO DB2ADMIN.TRATAMENTO (ID_TIPO_TRATAMENTO, DESCRICAOTRATAMENTO, PERIODICIDADE)
+VALUES ('1', 'Tratamento Estágio IV', '24Horas');
